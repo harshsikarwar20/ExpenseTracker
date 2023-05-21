@@ -81,15 +81,6 @@ https://github.com/harshsikarwar20/ExpenseTracker/tree/master/src/main/java/com/
 
 --------------------------------------------------------------------------------------------------------------------
 
-### 4. DataBase : Here i have used mySQL : This database persist data even when the program is re-run.
- #### Table of User contents
-   
-<img width="805" alt="Screenshot 2023-03-15 at 8 55 29 PM" src="https://user-images.githubusercontent.com/100271790/225358321-51a16ad6-b78d-4c4e-995a-775e447d2f1c.png">
-
- #### Table of Product contents
- 
-<img width="431" alt="Screenshot 2023-03-15 at 8 56 34 PM" src="https://user-images.githubusercontent.com/100271790/225358556-c2c3f446-6ff1-4916-a7fb-9f33f6e8a5f2.png">
-
 ## Data Structure Used in Project
 * ArrayList
 
