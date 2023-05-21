@@ -94,7 +94,6 @@ https://github.com/harshsikarwar20/ExpenseTracker/tree/master/src/main/java/com/
             the system is rebooted, if user is not logged-In we cannot create any new expenses.
      4.) User and Product validation is been provided by Validation dependency (@VALID).
      5.) Custom JPA query as well as @Query Annotion is used for generating results from database.
-     6.) The link provided below is of swagger link which is hosted on AWS server.
             
 
 ### Project Demo
